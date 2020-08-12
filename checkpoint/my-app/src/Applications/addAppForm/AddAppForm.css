@@ -1,0 +1,12 @@
+.application_form{
+    display: inline-flex;
+}
+
+.add_application_text{
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.input_textbox{
+    margin-right: 10px;
+}
